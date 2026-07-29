@@ -19,7 +19,7 @@
 		"@typescript-eslint/eslint-plugin": "^7.2.0",
 		"@typescript-eslint/parser": "^7.2.0",
 		"@typescript/native-preview": "7.0.0-dev.20260511.1",
-		"@vitest/browser": "^0.34.6",
+		"@vitest/browser": "^3.2.7",
 		"eslint": "^8.57.0",
 		"eslint-config-prettier": "^9.0.0",
 		"eslint-plugin-prettier": "^4.2.1",
